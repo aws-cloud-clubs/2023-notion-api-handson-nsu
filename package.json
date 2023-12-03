@@ -3,6 +3,11 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {},
-  "dependencies": {},
-  "devDependencies": {}
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "rss-parser": "^3.13.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.2"
+  }
 }
