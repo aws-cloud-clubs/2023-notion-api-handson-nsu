@@ -4,6 +4,7 @@
   "private": true,
   "scripts": {},
   "dependencies": {
+    "@notionhq/client": "^2.2.13",
     "dotenv": "^16.3.1",
     "rss-parser": "^3.13.0"
   },
